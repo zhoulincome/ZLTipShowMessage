@@ -3,7 +3,7 @@
 //  StaffManagement
 //
 //  Created by victor on 15-3-31.
-//  Copyright (c) 2015年 四川昂德投资有限公司. All rights reserved.
+//  Copyright (c) 2015年 ZL. All rights reserved.
 //
 
 #define APP_MAIN_SCREEN_WIDTH   [[UIScreen mainScreen] bounds].size.width
